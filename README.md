@@ -1,5 +1,8 @@
 # Indoor/Outdoor/Map classifier
 
+
+## Description 
+todo
 ## Notebook
 Notebook is given at this link:
 https://colab.research.google.com/drive/17hodAaCM-5eQU-2tpnk6WdVvux6pimZF?usp=sharing
@@ -54,9 +57,7 @@ For the purposes of this project transfer learning was used with:
 - [x] Resnet 50 (Large)
 - [] Mobilenet V3 )
 
-## Future Work
 
-Future work
 
 # Evaluation results
 Classification for indoor-outdoor images
@@ -76,4 +77,8 @@ precision    recall  f1-score   support
    macro avg       0.93      0.93      0.93      6832
 weighted avg       0.93      0.93      0.93      6832
 ```
+
+## Future Work
+
+Future work
 
