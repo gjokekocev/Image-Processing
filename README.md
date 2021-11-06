@@ -19,10 +19,10 @@ We built a model that will recognize
 
 ##### Outdoor
 
-##### Garbage
+#### Garbage
 
-##### Map 
-##### Other things
+#### Map 
+#### Other things
     Garbage (Logo, tables, signatures ...)
 
 
