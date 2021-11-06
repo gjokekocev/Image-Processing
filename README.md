@@ -93,6 +93,9 @@ The model is given at this [link](https://drive.google.com/file/d/1iBxOY9dx4aSJ_
 
 This model is created to differ indoor from outdoor images. It also regonizes maps from other images. The main purpose of this model is to be inplemented in many applications for classifying the type of the images (for example Bathroom images).
 
+These are the results of the training and validation accuracies
+
+
 # Installation
 
 ```
