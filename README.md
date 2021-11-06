@@ -18,10 +18,12 @@
 * Map
 
 # Dataset
-Link...
+Dataset is given at this link: 
+https://drive.google.com/drive/folders/1WF_p50SxOjlX7s23o8Pdn6ecXNS-JyuP
 
 # Model 
-Link
+The model is given at this link:
+https://drive.google.com/file/d/1iBxOY9dx4aSJ_PF50te1VMoPim_1Xunk/view?usp=sharing
 # Visualizations
 
 This model is created to differ indoor from outdoor images. It also regonizes maps from other images. The main purpose of this model is to be inplemented in a many applications for classifying the type of the images (for example Bathroom images).
