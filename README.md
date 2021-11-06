@@ -32,13 +32,20 @@ This project consists of the following activities :
 
 Plan
 
-*Phase 1 : 
+Phase 1 :
+
 Dataset and team planning
+
 Team Planning
+
 Full git project Integration
+
 General Project Research
+
 Dataset Collection
+
 Dataset Preparation
+
 Phase 2 : Training
         Research about neural networks
         Compose and train neural network architectures
