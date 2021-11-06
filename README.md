@@ -5,17 +5,14 @@
 The goal of this project is to create a robust classifier, to collect data and prepare custom dataset.
 We built a model that will recognize
 
-#### Properties
+## Properties
 
-##### Indoor
+## Indoor
 
-     Kitchen
-     
-     Living room
-     
-     Bathroom
-     
-     Bedroom 
+* Kitchen
+* Living room
+* Bathroom
+* Bedroom 
 
 ##### Outdoor
 
