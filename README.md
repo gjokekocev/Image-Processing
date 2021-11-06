@@ -7,19 +7,19 @@ We built a model that will recognize
 
 ## Properties
 
-## Indoor
+### Indoor
 
 * Kitchen
 * Living room
 * Bathroom
 * Bedroom 
 
-##### Outdoor
+### Outdoor
 
-#### Garbage
+### Garbage
 
-#### Map 
-#### Other things
+* Map 
+* Other things
     Garbage (Logo, tables, signatures ...)
 
 
@@ -34,7 +34,7 @@ The project consists of the following activities :
 
 ### Plan
 
-#### Phase 1 :
+* **Phase 1 :**
 
     Dataset and team planning
     Team Planning
@@ -44,7 +44,7 @@ The project consists of the following activities :
     Dataset Preparation
 
 
-#### Phase 2 :
+* **Phase 2 :**
 
     Training
     Research about neural networks
@@ -54,7 +54,7 @@ The project consists of the following activities :
     Fine tunning of your model
     
 
-#### Phase 3 :
+* **Phase 3 :**
 
     Deployment
     Analysis and benchmark Precision/Recall + Confusion Matrix
@@ -71,6 +71,7 @@ Notebook is given at this [link](https://colab.research.google.com/drive/17hodAa
 | Bathroom | Bedroom | dining_room  | kitchen |maps | other | outdoor |
 |:------: | :------: | :------: |:------: | :------: | :------: | :------: | 
 |<img src="https://i2-prod.manchestereveningnews.co.uk/incoming/article18734591.ece/ALTERNATES/s1200c/1_254857696.jpg" width = 220px height = 120px > |<img src="https://media.istockphoto.com/photos/white-modern-bedroom-picture-id500120991" width = "220px" height = "120px" >| <img src="https://www.mydomaine.com/thmb/yDqpl0RLlsS-AslxDX9cav17RdA=/500x350/filters:no_upscale():max_bytes(150000):strip_icc()/cdn.cliqueinc.com__cache__posts__275260__modern-california-house-tour-275260-1545071142629-image.700x0c-0aaafe385afa49ebacc261ca3ed9c4f6.jpg" width = "220px" height = "120px" >| <img src="https://www.mydomaine.com/thmb/BDTs_CfbqrpvpgQ-YxWtjMawmv8=/500x350/filters:no_upscale():max_bytes(150000):strip_icc()/AuslandInteriors-bb94e66cf78c449eb8316d30f5f6b19a.jpg" width = 220px height = 120px >|<img src="https://www.google.com/maps/d/thumbnail?mid=1OyNxaAJ66dh23Kh5fMDhY2Xs5L4&hl=iw" width = 220px height = 120px > |<img src="https://assets-global.website-files.com/580ea75512564ed05c3a8455/59f4ce1cdefbd9000100e63c_hellosign-blog-header%20copy%20139.jpg" width = 220px height = 120px >| <img src="https://media.istockphoto.com/photos/colonial-style-house-picture-id1284097677?b=1&k=20&m=1284097677&s=170667a&w=0&h=1A7BkHG5OU4WCN7m22OOhvVmU21q4UsYVJPrS1kgcKI=" width = 220px height = 120px > |
+
 ### Supported Classes :
 * Bathroom
 * Bedroom
@@ -146,5 +147,5 @@ weighted avg       0.93      0.93      0.93      6832
 
 ## Future Work
 
-Future work
+We would continue to expand the datasets and also try a different kind of data augmenatation like GAN for generating synthetic data with limited or imbalanced datasets.
 
