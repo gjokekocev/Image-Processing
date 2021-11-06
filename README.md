@@ -24,7 +24,8 @@ We built a model that will recognize
 
 
 
-The project consists of the following activities :
+
+##The project consists of the following activities :
 
    [Dataset info](https://drive.google.com/drive/folders/1HOn2LPxoKKTG3whaxkTQrEyltw6uz82n?usp=sharing)
 
