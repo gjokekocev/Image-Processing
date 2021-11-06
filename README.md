@@ -4,7 +4,7 @@
 
 | Bathroom | Bedroom | Map |
 | :------: | :------: | :------: |
-| <img src="https://cdn2.furniture1.eu/v7/_v2_/543/543202.jpg?w=700&h=440&p=fw" width = 300px height = 200px > | <img src="https://cdn2.furniture1.eu/v7/_v2_/494/494166.jpg?w=700&h=440&p=fw" width = "300px" height = "200px" > |<img src="https://media.wired.com/photos/59269cd37034dc5f91bec0f1/191:100/w_1280,c_limit/GoogleMapTA.jpg" width = "300px" height = "200px" > |
+| <img src="https://i2-prod.manchestereveningnews.co.uk/incoming/article18734591.ece/ALTERNATES/s1200c/1_254857696.jpg" width = 300px height = 200px > | <img src="https://cdn2.furniture1.eu/v7/_v2_/494/494166.jpg?w=700&h=440&p=fw" width = "300px" height = "200px" > |<img src="https://media.wired.com/photos/59269cd37034dc5f91bec0f1/191:100/w_1280,c_limit/GoogleMapTA.jpg" width = "300px" height = "200px" > |
 
 ### Supported Classes :
 * Bathroom
