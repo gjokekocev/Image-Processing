@@ -5,28 +5,32 @@
 The goal of this project is to create a robust classifier, to collect data and prepare custom dataset.
 We built a model that will recognize
 
-### Properties
+#### Properties
 
-Indoor
+##### Indoor
 
-    Kitchen 
-    Living room
-    Bathroom
-    Bedroom 
+     Kitchen
+     
+     Living room
+     
+     Bathroom
+     
+     Bedroom 
 
-Outdoor
+##### Outdoor
 
-Garbage
+##### Garbage
 
-Map 
-    Other things, Garbage (Logo, tables, signatures ...)
+##### Map 
+##### Other things
+    Garbage (Logo, tables, signatures ...)
 
 This project consists of the following activities :
 
-    Dataset info
-    https://drive.google.com/drive/folders/1HOn2LPxoKKTG3whaxkTQrEyltw6uz82n?usp=sharing
+   [Dataset info](https://drive.google.com/drive/folders/1HOn2LPxoKKTG3whaxkTQrEyltw6uz82n?usp=sharing)
 
     Raw Data : Useful for garbage and maybe outdoor images
+    
     Room data : Useful for Indoor images
 
 ### Plan
