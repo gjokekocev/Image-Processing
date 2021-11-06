@@ -2,7 +2,53 @@
 
 
 ## Description 
-todo
+Images Clasification
+The goal of your project is to create a robust classifier, to collect data and prepare custom dataset.
+You will build a model that will recognize
+
+Properties
+
+Indoor
+
+    Kitchen 
+    Living room
+    Bathroom
+    Bedroom 
+
+Outdoor
+
+Garbage
+
+Map 
+    Other things, Garbage (Logo, tables, signatures ...)
+
+This project consists of the following activities :
+
+    Dataset info
+    https://drive.google.com/drive/folders/1HOn2LPxoKKTG3whaxkTQrEyltw6uz82n?usp=sharing
+
+    Raw Data : Useful for garbage and maybe outdoor images
+    Room data : Useful for Indoor images
+
+Plan
+    Phase 1 : Dataset and team planning
+        Team Planning
+        Full git project Integration
+        General Project Research
+        Dataset Collection
+        Dataset Preparation
+    Phase 2 : Training
+        Research about neural networks
+        Compose and train neural network architectures
+        Ping Pong phase with Dataset labelers
+        Generate syntethic data if needed
+        Fine tunning of your model
+    Phase 3 : Deployment
+        Analysis and benchmark Precision/Recall + Confusion Matrix
+        Model Deploy (Git)
+        Write git Readme.md file
+        Receive Feedback from PM
+
 ## Notebook
 Notebook is given at this [link](https://colab.research.google.com/drive/17hodAaCM-5eQU-2tpnk6WdVvux6pimZF?usp=sharing)
 
