@@ -29,9 +29,9 @@ This project consists of the following activities :
 
    [Dataset info](https://drive.google.com/drive/folders/1HOn2LPxoKKTG3whaxkTQrEyltw6uz82n?usp=sharing)
 
-    Raw Data : Useful for garbage and maybe outdoor images
+   Raw Data : Useful for garbage and maybe outdoor images
     
-    Room data : Useful for Indoor images
+   Room data : Useful for Indoor images
 
 ### Plan
 
