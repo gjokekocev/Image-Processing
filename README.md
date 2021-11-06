@@ -2,11 +2,10 @@
 
 
 ## Description 
-Images Clasification
-The goal of your project is to create a robust classifier, to collect data and prepare custom dataset.
-You will build a model that will recognize
+The goal of this project is to create a robust classifier, to collect data and prepare custom dataset.
+We built a model that will recognize
 
-Properties
+### Properties
 
 Indoor
 
@@ -30,9 +29,9 @@ This project consists of the following activities :
     Raw Data : Useful for garbage and maybe outdoor images
     Room data : Useful for Indoor images
 
-Plan
+### Plan
 
-Phase 1 :
+#### Phase 1 :
 
     Dataset and team planning
     Team Planning
@@ -42,7 +41,7 @@ Phase 1 :
     Dataset Preparation
 
 
-Phase 2 :
+#### Phase 2 :
 
     Training
     Research about neural networks
@@ -52,7 +51,7 @@ Phase 2 :
     Fine tunning of your model
     
 
-Phase 3 :
+#### Phase 3 :
 
     Deployment
     Analysis and benchmark Precision/Recall + Confusion Matrix
