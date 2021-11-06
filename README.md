@@ -1,5 +1,10 @@
 # Indoor/Outdoor/Map classifier
 
+## Notebook
+Notebook is given at this link:
+https://colab.research.google.com/drive/17hodAaCM-5eQU-2tpnk6WdVvux6pimZF?usp=sharing
+
+
 ## Predictions
 
 | Bathroom | Bedroom | dining_room  | kitchen |maps | other | outdoor |
@@ -11,15 +16,15 @@
 ### Supported Classes :
 * Bathroom
 * Bedroom
+* Dining room
 * Kitchen
-* LivingRoom
 * Outdoor
 * Other
 * Map
 
 # Dataset
 Dataset is given at this link: 
-https://drive.google.com/drive/folders/1WF_p50SxOjlX7s23o8Pdn6ecXNS-JyuP
+https://drive.google.com/file/d/1-_B2JbcUISxzmcW7nj46iASBFFb2kNPh/view?usp=sharing
 
 # Model 
 The model is given at this link:
