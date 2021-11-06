@@ -25,6 +25,8 @@ We built a model that will recognize
 ##### Other things
     Garbage (Logo, tables, signatures ...)
 
+
+
 This project consists of the following activities :
 
    [Dataset info](https://drive.google.com/drive/folders/1HOn2LPxoKKTG3whaxkTQrEyltw6uz82n?usp=sharing)
