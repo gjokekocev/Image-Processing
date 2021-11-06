@@ -34,43 +34,31 @@ Plan
 
 Phase 1 :
 
-Dataset and team planning
+    Dataset and team planning
+    Team Planning
+    Full git project Integration
+    General Project Research
+    Dataset Collection
+    Dataset Preparation
 
-Team Planning
-
-Full git project Integration
-
-General Project Research
-
-Dataset Collection
-
-Dataset Preparation
 
 Phase 2 :
 
-Training
-        
-Research about neural networks
-
-Compose and train neural network architectures
-
-Ping Pong phase with Dataset labelers
-
-Generate syntethic data if needed
-
-Fine tunning of your model
+    Training
+    Research about neural networks
+    Compose and train neural network architectures
+    Ping Pong phase with Dataset labelers
+    Generate syntethic data if needed
+    Fine tunning of your model
     
+
 Phase 3 :
 
-Deployment
-
-Analysis and benchmark Precision/Recall + Confusion Matrix
-
-Model Deploy (Git)
-
-Write git Readme.md file
-
-Receive Feedback from PM
+    Deployment
+    Analysis and benchmark Precision/Recall + Confusion Matrix
+    Model Deploy (Git)
+    Write git Readme.md file
+    Receive Feedback from PM
 
 ## Notebook
 Notebook is given at this [link](https://colab.research.google.com/drive/17hodAaCM-5eQU-2tpnk6WdVvux6pimZF?usp=sharing)
