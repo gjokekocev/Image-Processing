@@ -33,6 +33,12 @@ https://drive.google.com/file/d/1iBxOY9dx4aSJ_PF50te1VMoPim_1Xunk/view?usp=shari
 
 This model is created to differ indoor from outdoor images. It also regonizes maps from other images. The main purpose of this model is to be inplemented in a many applications for classifying the type of the images (for example Bathroom images).
 
+# Installation
+
+```
+pip install -r requirements.txt
+```
+
 ## File tree structure 
 
 ```
