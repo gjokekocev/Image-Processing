@@ -31,13 +31,15 @@ This project consists of the following activities :
     Room data : Useful for Indoor images
 
 Plan
-    Phase 1 : Dataset and team planning
-        Team Planning
-        Full git project Integration
-        General Project Research
-        Dataset Collection
-        Dataset Preparation
-    Phase 2 : Training
+
+*Phase 1 : 
+Dataset and team planning
+Team Planning
+Full git project Integration
+General Project Research
+Dataset Collection
+Dataset Preparation
+Phase 2 : Training
         Research about neural networks
         Compose and train neural network architectures
         Ping Pong phase with Dataset labelers
