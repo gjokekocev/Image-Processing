@@ -4,8 +4,7 @@
 ## Description 
 todo
 ## Notebook
-Notebook is given at this [link]
-(https://colab.research.google.com/drive/17hodAaCM-5eQU-2tpnk6WdVvux6pimZF?usp=sharing)
+Notebook is given at this [link](https://colab.research.google.com/drive/17hodAaCM-5eQU-2tpnk6WdVvux6pimZF?usp=sharing)
 
 
 ## Predictions
@@ -23,12 +22,11 @@ Notebook is given at this [link]
 * Map
 
 # Dataset
-Dataset is given at this [link] 
-(https://drive.google.com/file/d/1-_B2JbcUISxzmcW7nj46iASBFFb2kNPh/view?usp=sharing)
+Dataset is given at this [link](https://drive.google.com/file/d/1-_B2JbcUISxzmcW7nj46iASBFFb2kNPh/view?usp=sharing)
 
 # Model 
-The model is given at this [link]
-(https://drive.google.com/file/d/1iBxOY9dx4aSJ_PF50te1VMoPim_1Xunk/view?usp=sharing)
+The model is given at this [link](https://drive.google.com/file/d/1iBxOY9dx4aSJ_PF50te1VMoPim_1Xunk/view?usp=sharing)
+
 # Visualizations
 
 This model is created to differ indoor from outdoor images. It also regonizes maps from other images. The main purpose of this model is to be inplemented in a many applications for classifying the type of the images (for example Bathroom images).
