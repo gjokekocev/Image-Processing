@@ -38,29 +38,43 @@ We built a model that will recognize
 * **Phase 1 :**
 
     Dataset and team planning
+    
     Team Planning
+    
     Full git project Integration
+    
     General Project Research
+    
     Dataset Collection
+    
     Dataset Preparation
 
 
 * **Phase 2 :**
 
     Training
+    
     Research about neural networks
+    
     Compose and train neural network architectures
+    
     Ping Pong phase with Dataset labelers
+    
     Generate syntethic data if needed
+    
     Fine tunning of your model
     
 
 * **Phase 3 :**
 
     Deployment
+    
     Analysis and benchmark Precision/Recall + Confusion Matrix
+    
     Model Deploy (Git)
+    
     Write git Readme.md file
+    
     Receive Feedback from PM
 
 ## Notebook
