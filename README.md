@@ -3,7 +3,7 @@
 
 ## Description 
 The goal of this project is to create a robust classifier, to collect data and prepare custom dataset.
-We built a model that will recognize
+We built a model that will recognize different pictures.
 
 ## Properties
 
